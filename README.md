@@ -5,8 +5,8 @@
 Firmware and low-level development in C/C++ for safety-critical systems.
 Experience in automotive, medical and security domains.
 
+[![Blog](https://img.shields.io/badge/Blog-embarque.ch-0A66C2?style=flat)](https://www.embarque.ch/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-ph/)
-[![Blog](https://img.shields.io/badge/embarque.ch-222?style=flat&logo=hugo&logoColor=white)](https://www.embarque.ch/blog/)
 
 ---
 
