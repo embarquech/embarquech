@@ -18,6 +18,5 @@ Experience in automotive, medical and security domains.
 
 | Repository | Description |
 |---|---|
-| [cryptnox-sdk-arduino](https://github.com/embarquech/cryptnox-sdk-arduino) | Arduino library for Cryptnox smart card wallets |
 | [trng](https://github.com/embarquech/trng) | Hardware TRNG library for Arduino UNO R4 |
-| [cryptnox-sdk-cpp](https://github.com/embarquech/cryptnox-sdk-cpp) | C++ SDK for Cryptnox smart cards |
+
